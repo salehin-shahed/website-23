@@ -1,0 +1,184 @@
+body{
+    overflow-x: hidden;
+}
+
+/* Logo Section */
+
+.logo img {
+    width: 90px;
+}
+
+/* Banner Section */
+
+.banner {
+    background: #f9f9ff;
+}
+
+.banner-text {
+    padding-top: 200px;
+}
+
+.about h6 {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.about h1 {
+    padding: 10px 0 15px 0;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.about p {
+    padding: 0 50px 15px 0;
+    font-size: 17px;
+}
+
+.about .button a {
+    display: inline-block;
+    text-decoration: none;
+    background: #8490ff;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.about-section h1 {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.about-section p {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+/* Counter Section */
+
+.counter {
+    background: #8490ff;
+
+}
+
+/* Pricing Section */
+
+.pricing-section {
+    background: #f9f9ff;
+}
+
+.pricing-section h2 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.pricing-section p {
+    font-size: 19px;
+}
+
+.pricing-card {
+    box-shadow: 0 0 30px 0 rgba(132, 144, 255, .1);
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.pricing-card h1 {
+    background: #f9f9ff;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    line-height: 130px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.pricing-card a {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #8490ff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 30px 0 rgba(132, 144, 255, .2);
+}
+
+.pricing-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.pricing-list li {
+    padding: 15px 0;
+    font-size: 19px;
+    font-weight: 400;
+    color: #898989;
+}
+
+
+/* Card Section */
+
+.card-section {
+    padding: 120px 0 60px 0;
+}
+
+.img-setup {
+    position: absolute;
+    top: -40px;
+    left: 20px;
+}
+
+.btn-setup {
+    border: none;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, .2);
+}
+
+.card-setup {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .2);
+    border: none;
+}
+
+.fw-weight {
+    font-weight: 400;
+}
+
+
+/* Contact Section */
+
+.contact-section {
+    background: #f9f9ff;
+}
+
+.contact-box {
+    box-shadow: 0 0 30px 0 rgba(132, 144, 255, .2);
+    padding: 50px;
+    text-align: center;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.contact-box a {
+    display: inline-block;
+    text-decoration: none;
+    background: #17a2b8;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.w-font {
+    font-weight: 400;
+}
+
+.message {
+    height: 180px;
+}
+
+.contact-right h3 {
+    padding: 100px 0 10px 20px;
+}
+
+.contact-right h6 {
+    padding: 5px 20px;
+}

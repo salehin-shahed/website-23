@@ -1,0 +1,36 @@
+@media (max-width: 1024px) {
+    .about-img img {
+        width: 95%;
+        margin-top: 10%;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner-text {
+        padding-top: 100px;
+    }
+
+    .banner-img {
+        margin-top: 10%;
+    }
+}
+
+@media (max-width: 425px) {
+    .banner-img img {
+        width: 100%;
+    }
+
+    .about-img img {
+        margin-left: 2%;
+    }
+
+    .contact-box {
+        margin-left: 5%;
+    }
+}
+
+@media (max-width: 375px) {
+    .footer {
+        padding: 0 50px;
+    }
+}
